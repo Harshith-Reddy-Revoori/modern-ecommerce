@@ -1,0 +1,167 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 79.99,
+      "category": "Electronics",
+      "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop",
+      "rating": 4.5,
+      "stock": 25,
+      "reviews": 1247
+    },
+    {
+      "id": 2,
+      "name": "Cotton Summer T-Shirt",
+      "price": 24.99,
+      "category": "Clothing",
+      "description": "Comfortable 100% cotton t-shirt perfect for summer casual wear",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300&h=300&fit=crop",
+      "rating": 4.2,
+      "stock": 50,
+      "reviews": 892
+    },
+    {
+      "id": 3,
+      "name": "Indoor Plant Collection",
+      "price": 39.99,
+      "category": "Home & Garden",
+      "description": "Beautiful set of 3 indoor plants including snake plant, pothos, and peace lily",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=300&h=300&fit=crop",
+      "rating": 4.7,
+      "stock": 15,
+      "reviews": 567
+    },
+    {
+      "id": 4,
+      "name": "JavaScript Programming Book",
+      "price": 29.99,
+      "category": "Books",
+      "description": "Complete guide to modern JavaScript programming with ES6+ features",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop",
+      "rating": 4.8,
+      "stock": 30,
+      "reviews": 1543
+    },
+    {
+      "id": 5,
+      "name": "Yoga Exercise Mat",
+      "price": 34.99,
+      "category": "Sports",
+      "description": "Premium non-slip yoga mat with 6mm thickness for all fitness activities",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=300&h=300&fit=crop",
+      "rating": 4.4,
+      "stock": 20,
+      "reviews": 789
+    },
+    {
+      "id": 6,
+      "name": "Wireless Gaming Mouse",
+      "price": 59.99,
+      "category": "Electronics",
+      "description": "High-precision gaming mouse with RGB lighting and 12000 DPI sensor",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300&h=300&fit=crop",
+      "rating": 4.6,
+      "stock": 35,
+      "reviews": 923
+    },
+    {
+      "id": 7,
+      "name": "Running Sneakers",
+      "price": 89.99,
+      "category": "Sports",
+      "description": "Lightweight running shoes with cushioned sole and breathable mesh upper",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=300&fit=crop",
+      "rating": 4.5,
+      "stock": 40,
+      "reviews": 1156
+    },
+    {
+      "id": 8,
+      "name": "Espresso Coffee Maker",
+      "price": 299.99,
+      "category": "Home & Garden",
+      "description": "Professional espresso machine with milk frother and programmable settings",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=300&fit=crop",
+      "rating": 4.7,
+      "stock": 12,
+      "reviews": 687
+    },
+    {
+      "id": 9,
+      "name": "Travel Backpack",
+      "price": 79.99,
+      "category": "Travel",
+      "description": "Durable travel backpack with multiple compartments and laptop sleeve",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=300&fit=crop",
+      "rating": 4.3,
+      "stock": 28,
+      "reviews": 445
+    },
+    {
+      "id": 10,
+      "name": "Fitness Smartwatch",
+      "price": 199.99,
+      "category": "Electronics",
+      "description": "Advanced fitness tracker with heart rate monitor and GPS tracking",
+      "image": "https://images.unsplash.com/photo-1579586337278-3f436f25d4d6?w=300&h=300&fit=crop",
+      "rating": 4.4,
+      "stock": 22,
+      "reviews": 834
+    },
+    {
+      "id": 11,
+      "name": "Denim Jacket",
+      "price": 69.99,
+      "category": "Clothing",
+      "description": "Classic denim jacket with modern fit and vintage wash finish",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=300&h=300&fit=crop",
+      "rating": 4.2,
+      "stock": 33,
+      "reviews": 567
+    },
+    {
+      "id": 12,
+      "name": "Organic Skincare Set",
+      "price": 49.99,
+      "category": "Beauty",
+      "description": "Complete organic skincare routine with cleanser, toner, and moisturizer",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=300&h=300&fit=crop",
+      "rating": 4.6,
+      "stock": 18,
+      "reviews": 392
+    },
+    {
+      "id": 13,
+      "name": "Cooking Masterclass Book",
+      "price": 35.99,
+      "category": "Books",
+      "description": "Professional cooking techniques and recipes from world-class chefs",
+      "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=300&fit=crop",
+      "rating": 4.8,
+      "stock": 25,
+      "reviews": 678
+    },
+    {
+      "id": 14,
+      "name": "Ceramic Dinnerware Set",
+      "price": 89.99,
+      "category": "Home & Garden",
+      "description": "Elegant 16-piece ceramic dinnerware set for 4 people with modern design",
+      "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=300&h=300&fit=crop",
+      "rating": 4.5,
+      "stock": 15,
+      "reviews": 234
+    },
+    {
+      "id": 15,
+      "name": "Adjustable Laptop Stand",
+      "price": 39.99,
+      "category": "Electronics",
+      "description": "Ergonomic aluminum laptop stand with adjustable height and angle",
+      "image": "https://images.unsplash.com/photo-1527142879-c2d3e4760965?w=300&h=300&fit=crop",
+      "rating": 4.3,
+      "stock": 45,
+      "reviews": 521
+    }
+  ]

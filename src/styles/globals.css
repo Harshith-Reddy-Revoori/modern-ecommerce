@@ -729,7 +729,7 @@ button, input, select { font: inherit; }
 
 /* ---------- Mobile Header / Menu ---------- */
 .hamburger-btn {
-  display:none;
+  display:none !important;
 }
 
 .mobile-panel {
